@@ -1,0 +1,33 @@
+h1{
+    color:darkorange;
+}
+
+ .header{
+ background-color:#405090;
+ display:flex;
+ justify-content: space-between;
+ }
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+
+    justify-content: flex-end;
+}
+p,h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    text-align: center;
+}
+.sitedescription{
+    background-color: #109933;
+     border-style: dashed;
+     
+}
+body{
+background-color: #808080;
+}

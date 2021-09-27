@@ -1,0 +1,13 @@
+p{
+    text-align: left;
+    color:darkviolet;
+    font-size: xx-large;
+    background-image: url("icons/Icons/space.jpg");
+    background-size: cover;
+}
+
+body{
+    background-image: url("icons/Icons/color.gif");
+    background-size: cover;
+    
+}
